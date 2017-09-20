@@ -1,0 +1,30 @@
+
+#mainbio{
+	background-color:yellow;
+	float:left;
+	width:75%;
+	height:400px;
+}
+aside{
+	background-color:blue;
+	padding:20px;
+	height:50px;
+}
+	
+}
+#contact{
+	background-color:lightblue;
+	float:left;
+	width:33%;
+}
+h2{
+ background-color:red;
+
+ font-size: 25px;
+}
+h1{
+	background-color:green;
+}
+nav {
+	float:right;
+}
